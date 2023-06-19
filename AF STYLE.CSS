@@ -20,7 +20,7 @@ header nav a {
     padding: 0 1rem;
 }
 #hero {
-   background-image:url(photo/backimage.jpg);
+   background-image:url(photo/ground.jpg);
     background-size: cover;
     height: 50vh;
     display: flex;
